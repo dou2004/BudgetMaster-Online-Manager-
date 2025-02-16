@@ -1,1 +1,2 @@
 # BudgetMaster-Online-Manager-
+BudgetMaster Online Manager is designed to help individuals and families efficiently manage their ‎finances with ease. By offering comprehensive budgeting tools and real-time tracking features, users ‎can gain full control over their income, expenses, and savings. With a user-friendly interface and ‎advanced reporting capabilities, BudgetMaster ensures that managing personal or household ‎budgets becomes a stress-free and transparent process.  ‎
