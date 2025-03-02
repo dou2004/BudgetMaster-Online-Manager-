@@ -1,8 +1,1 @@
-ميزانيتي (My Budget) is a user-friendly budgeting application designed to help individuals manage their finances with ease. Whether you're tracking your daily expenses, setting savings goals, or planning your monthly budget, ميزانيتي provides a simple and effective way to stay on top of your financial health. The app allows users to monitor their spending habits, track income, set and manage budgets, and analyze financial trends through intuitive reports and charts. With ميزانيتي, users can take control of their finances, plan for the future, and make informed financial decisions.
-
-
-
-
-
-
-
+C'est un site web permettant aux utilisateurs de gérer leur budget personnel. Les utilisateurs peuvent suivre leurs dépenses quotidiennes, établir un budget mensuel, et fixer des objectifs d'épargne. Le site permet de suivre les revenus, de créer des catégories de dépenses, et d’analyser les habitudes financières à travers des rapports détaillés. Les utilisateurs peuvent ajuster leur budget en temps réel et recevoir des notifications lorsqu'ils dépassent un certain seuil. Ce site aide les utilisateurs à mieux comprendre leur situation financière et à prendre des décisions éclairées pour gérer efficacement leur argent.
